@@ -1,2 +1,4 @@
 import numpy as np 
-print(a)
+b = np.ones(1,5)
+print(b)
+
