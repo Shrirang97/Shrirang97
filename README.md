@@ -2,11 +2,11 @@
 
 ### I'm a Developer, Programmer and preety much Software Engineer 🤣🤣🤣!!
 
-- 🔭 I just launched my career! having 1+ year Full Stack experience and Certified Azure Developer!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I just launched my career, have 1+ year Full Stack experience and **Certified Azure Developer!
+- 🌱 I’m currently learning Machine Learning Advanced, Visualiazation
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play CS:GO and Valorant. 
+- 🥅 Goals for 2020: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play CS:GO and Valorant. Eat Food. Love Coffee and Code. :)
 <hr>
 
 ### <img align="left" alt="Shrirang97's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrirang97&show_icons=true&hide_border=true" />
