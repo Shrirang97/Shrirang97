@@ -10,9 +10,8 @@
 - ⚡ Fun fact: I love to play CS:GO and Valorant. 
 
 ###  :zap: GitHub Stats
-<details>
+
   <img align="left" alt="Shrirang97's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrirang97&show_icons=true&hide_border=true" />
-</details>
 
 ### GitHub Trophies:
 
