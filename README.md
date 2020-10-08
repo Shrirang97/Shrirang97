@@ -52,11 +52,9 @@
 
 ---
 
+###  :zap: GitHub Stats
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Shrirang97's GitHub Stats" src="https://github-readme-stats.shrirang97.vercel.app/api?username=shrirang97&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://github.com/Shrirang97
@@ -65,7 +63,7 @@
 [linkedin]: https://www.linkedin.com/in/shrirang-pinjarkar-3a1b73aa/
 
 
-Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Shrirang for What's the difference between OpenID and OAuth?](https://stackoverflow.com/questions/1087031/whats-the-difference-between-openid-and-oauth/63655570#63655570)
 - [Answer by Shrirang for After getting token using Authorization Code Flow (OAuth 2.0), how can API knows that token sent from front end is valid?](https://stackoverflow.com/questions/63646902/after-getting-token-using-authorization-code-flow-oauth-2-0-how-can-api-knows/63647419#63647419)
