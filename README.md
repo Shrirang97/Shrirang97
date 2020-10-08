@@ -1,6 +1,6 @@
 
 # Hi there, I'm Shrirang 👋
-<br/> <hr>
+<hr>
 
 
 ### I'm a Developer, Programmer and preety much Software Engineer 🤣🤣🤣!!
