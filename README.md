@@ -1,4 +1,6 @@
- Blog posts
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Shrirang for What's the difference between OpenID and OAuth?](https://stackoverflow.com/questions/1087031/whats-the-difference-between-openid-and-oauth/63655570#63655570)
 - [Answer by Shrirang for After getting token using Authorization Code Flow (OAuth 2.0), how can API knows that token sent from front end is valid?](https://stackoverflow.com/questions/63646902/after-getting-token-using-authorization-code-flow-oauth-2-0-how-can-api-knows/63647419#63647419)
