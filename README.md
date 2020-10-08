@@ -9,6 +9,11 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play CS:GO and Valorant. 
 
+###  :zap: GitHub Stats
+<details>
+  <img align="left" alt="Shrirang97's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrirang97&show_icons=true&hide_border=true" />
+</details>
+
 ### GitHub Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shrirang97&theme=onedark)](https://github.com/Shrirang97)
@@ -45,16 +50,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+## Will Soon Upload Videos!
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCOwItjJSajeB5ncRa40yJeA)
 
 ---
-
-###  :zap: GitHub Stats
-<details>
-  <img align="left" alt="Shrirang97's GitHub Stats" src="https://github-readme-stats.shrirang97.vercel.app/api?username=shrirang97&show_icons=true&hide_border=true" />
-</details>
 
 [website]: https://github.com/Shrirang97
 [twitter]: https://twitter.com/SHRIRANGPINJAR2
