@@ -1,7 +1,8 @@
 
 # Hi there, I'm Shrirang 👋
-<br/>
-<hr>
+<br/> <hr>
+
+
 ### I'm a Developer, Programmer and preety much Software Engineer 🤣🤣🤣!!
 
 - 🔭 I just launched my career!
@@ -10,9 +11,11 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play CS:GO and Valorant. 
 <hr>
+
+
 ###  :zap: GitHub Stats
 <img align="left" alt="Shrirang97's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrirang97&show_icons=true&hide_border=true" />
-<br />
+<br/>
   
 ### GitHub Trophies:
 
