@@ -1,9 +1,6 @@
 
 ### Hi there, I'm Shrirang 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Developer, Programmer and preety much Software Engineer 🤣🤣🤣!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -14,7 +11,7 @@
 
 ### GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shrirang97&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shrirang97&theme=onedark)](https://github.com/Shrirang97)
 
 
 ### Connect with me:
@@ -23,7 +20,6 @@
 [<img align="left" alt="Shrirang97 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Shrirang97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Shrirang97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shrirang97 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
