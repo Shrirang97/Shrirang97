@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 <h1 style="display:inline" > Hi there, I'm Shrirang 👋 <h4 style="display:inline" align="right"> Connect with me:[<img align="right" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="right" alt="Shrirang97 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [<img align="right" alt="Shrirang97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="right" alt="Shrirang97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</h4></h1>
+=======
+## Hi there, I'm Shrirang 👋 <h4 align="right"> Connect with me:[<img align="right" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="right" alt="Shrirang97 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [<img align="right" alt="Shrirang97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="right" alt="Shrirang97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</h4>
+>>>>>>> parent of b7aceea... Update README.md
 ### I'm a Developer, Programmer and preety much Software Engineer 🤣🤣🤣!!
 
 - 🔭 I just launched my career! having 1+ year Full Stack experience and Certified Azure Developer!
