@@ -10,7 +10,7 @@
 <hr>
 
 ### <img align="left" alt="Shrirang97's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrirang97&show_icons=true&hide_border=true" />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><hr>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><hr>
 
 ### GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shrirang97&theme=onedark)](https://github.com/Shrirang97)
