@@ -1,7 +1,4 @@
-####  <h2 align="left"> Hi there, I'm Shrirang 👋 <h3 align="right"> Connect with me: </h3> [<img align="right" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="right" alt="Shrirang97 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [<img align="right" alt="Shrirang97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="right" alt="Shrirang97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] </h2>
-
-
-<hr>
+####  <h2 align="left" style="display:inline"> Hi there, I'm Shrirang 👋 <h3 style="display:inline"> Connect with me: </h3> [<img align="right" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="right" alt="Shrirang97 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [<img align="right" alt="Shrirang97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="right" alt="Shrirang97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] </h2>
 
 ### I'm a Developer, Programmer and preety much Software Engineer 🤣🤣🤣!!
 
