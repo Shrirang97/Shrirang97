@@ -10,7 +10,8 @@
 <hr>
 
 
-###  :zap: <img align="left" alt="Shrirang97's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrirang97&show_icons=true&hide_border=true" />
+###  :zap: 
+<img align="left" alt="Shrirang97's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrirang97&show_icons=true&hide_border=true" />
 <br/><hr>
   
 ### GitHub Trophies:
@@ -52,12 +53,6 @@
 
 <hr>
 
-[website]: https://github.com/Shrirang97
-[twitter]: https://twitter.com/SHRIRANGPINJAR2
-[youtube]: https://www.youtube.com/channel/UCOwItjJSajeB5ncRa40yJeA
-[linkedin]: https://www.linkedin.com/in/shrirang-pinjarkar-3a1b73aa/
-
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Shrirang for What's the difference between OpenID and OAuth?](https://stackoverflow.com/questions/1087031/whats-the-difference-between-openid-and-oauth/63655570#63655570)
@@ -66,3 +61,10 @@
 - [Answer by Shrirang for Anaconda Error - module 'brotli' has no attribute 'error'](https://stackoverflow.com/questions/61881121/anaconda-error-module-brotli-has-no-attribute-error/62159161#62159161)
 - [Answer by Shrirang for Apply function to specific rows of dataframe column](https://stackoverflow.com/questions/60867829/apply-function-to-specific-rows-of-dataframe-column/60868738#60868738)
 <!-- BLOG-POST-LIST:END -->
+
+
+<!-- ALL Variables -->
+[website]: https://github.com/Shrirang97
+[twitter]: https://twitter.com/SHRIRANGPINJAR2
+[youtube]: https://www.youtube.com/channel/UCOwItjJSajeB5ncRa40yJeA
+[linkedin]: https://www.linkedin.com/in/shrirang-pinjarkar-3a1b73aa/
