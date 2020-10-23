@@ -13,7 +13,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><hr>
 
 ### GitHub Trophies:
-[![trophy](https://github-readme-stats.shrirang.vercel.app//?username=Shrirang&theme=onedark)](https://github.com/Shrirang97)
+[![trophy](https://github-readme-stats.shrirang.vercel.app/api?username=Shrirang&theme=onedark)](https://github.com/Shrirang97)
 <hr>
 
 ### Languages and Tools:
