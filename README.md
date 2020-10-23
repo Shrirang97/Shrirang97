@@ -2,7 +2,7 @@
 
 ### I'm a Developer, Programmer and preety much Software Engineer 🤣🤣🤣!!
 
-- 🔭 I just launched my career, have 1+ year Full Stack experience and **Certified Azure Developer!
+- 🔭 I just launched my career, have 1+ year Full Stack experience and #Certified Azure Developer!
 - 🌱 I’m currently learning Machine Learning Advanced, Visualiazation
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals for 2020: Contribute more to Open Source projects
