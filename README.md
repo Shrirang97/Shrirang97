@@ -43,11 +43,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [As a software engineer, it is necessary to know how to use git.](https://medium.com/@shrirang.pinjarkar/as-a-software-engineer-it-is-necessary-know-how-to-use-git-4b37f9b9c473?source=rss-a3916c05d5a------2)
 - [Answer by Shrirang for Python version 3.7 is being used as the default version, even though I installed 3.8 on Windows](https://stackoverflow.com/questions/62979204/python-version-3-7-is-being-used-as-the-default-version-even-though-i-installed/64401462#64401462)
 - [Answer by Shrirang for What's the difference between OpenID and OAuth?](https://stackoverflow.com/questions/1087031/whats-the-difference-between-openid-and-oauth/63655570#63655570)
 - [Answer by Shrirang for After getting token using Authorization Code Flow (OAuth 2.0), how can API knows that token sent from front end is valid?](https://stackoverflow.com/questions/63646902/after-getting-token-using-authorization-code-flow-oauth-2-0-how-can-api-knows/63647419#63647419)
 - [After getting token using Authorization Code Flow (OAuth 2.0), how can API knows that token sent from front end is valid?](https://stackoverflow.com/questions/63646902/after-getting-token-using-authorization-code-flow-oauth-2-0-how-can-api-knows)
-- [Answer by Shrirang for Anaconda Error - module 'brotli' has no attribute 'error'](https://stackoverflow.com/questions/61881121/anaconda-error-module-brotli-has-no-attribute-error/62159161#62159161)
 <!-- BLOG-POST-LIST:END -->
 
 
