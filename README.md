@@ -45,9 +45,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Shrirang for No intellisense in Azure Function Project in my VS Code solution](https://stackoverflow.com/questions/67678941/no-intellisense-in-azure-function-project-in-my-vs-code-solution/67691049#67691049)
 - [How to inject two instances of same generic interface of different types in same class in spring boot application using annotations](https://stackoverflow.com/questions/67684492/how-to-inject-two-instances-of-same-generic-interface-of-different-types-in-same)
-- [HomeCook-System Analysis And Design](https://shrirang-pinjarkar.medium.com/homecook-system-analysis-and-design-dc6051c276ee?source=rss-a3916c05d5a------2)
-- [Software Engineer : Immutable Class in Java](https://shrirang-pinjarkar.medium.com/software-engineer-immutable-class-in-java-e8607b90a204?source=rss-a3916c05d5a------2)
-- [Software Engineer : How to use git commands properly](https://shrirang-pinjarkar.medium.com/software-engineer-how-to-use-git-commands-properly-1055f3e106c6?source=rss-a3916c05d5a------2)
+- [Answer by Shrirang for Python version 3.7 is being used as the default version, even though I installed 3.8 on Windows](https://stackoverflow.com/questions/62979204/python-version-3-7-is-being-used-as-the-default-version-even-though-i-installed/64401462#64401462)
+- [Answer by Shrirang for After getting token using Authorization Code Flow (OAuth 2.0), how can API knows that token sent from front end is valid?](https://stackoverflow.com/questions/63646902/after-getting-token-using-authorization-code-flow-oauth-2-0-how-can-api-knows/63647419#63647419)
+- [After getting token using Authorization Code Flow (OAuth 2.0), how can API knows that token sent from front end is valid?](https://stackoverflow.com/questions/63646902/after-getting-token-using-authorization-code-flow-oauth-2-0-how-can-api-knows)
 <!-- BLOG-POST-LIST:END -->
 
 
