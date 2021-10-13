@@ -43,11 +43,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Shrirang for Is there a way to log response body in Morgan?](https://stackoverflow.com/questions/57191236/is-there-a-way-to-log-response-body-in-morgan/69557027#69557027)
 - [Answer by Shrirang for Azure Service Bus: Client/Broker is not fetching the same size of messages as I passed the Batch Size](https://stackoverflow.com/questions/68488730/azure-service-bus-client-broker-is-not-fetching-the-same-size-of-messages-as-i/68490572#68490572)
 - [How to inject two instances of same generic interface of different types in same class in spring boot application using annotations](https://stackoverflow.com/questions/67684492/how-to-inject-two-instances-of-same-generic-interface-of-different-types-in-same)
 - [HomeCook-System Analysis And Design](https://shrirang-pinjarkar.medium.com/homecook-system-analysis-and-design-dc6051c276ee?source=rss-a3916c05d5a------2)
 - [Software Engineer : Immutable Class in Java](https://shrirang-pinjarkar.medium.com/software-engineer-immutable-class-in-java-e8607b90a204?source=rss-a3916c05d5a------2)
-- [Software Engineer : How to use git commands properly](https://shrirang-pinjarkar.medium.com/software-engineer-how-to-use-git-commands-properly-1055f3e106c6?source=rss-a3916c05d5a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
