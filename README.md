@@ -45,9 +45,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Shrirang for how to select years which has more than 2 movies released in mysql](https://stackoverflow.com/questions/69698442/how-to-select-years-which-has-more-than-2-movies-released-in-mysql/69698581#69698581)
 - [Answer by Shrirang for How to post json with Postman to Azure Functions?](https://stackoverflow.com/questions/69676969/how-to-post-json-with-postman-to-azure-functions/69678056#69678056)
-- [Answer by Shrirang for How to monitor a secret in Azure key vault](https://stackoverflow.com/questions/69677699/how-to-monitor-a-secret-in-azure-key-vault/69677894#69677894)
 - [Answer by Shrirang for Is there a way to log response body in Morgan?](https://stackoverflow.com/questions/57191236/is-there-a-way-to-log-response-body-in-morgan/69557027#69557027)
 - [Answer by Shrirang for Azure Service Bus: Client/Broker is not fetching the same size of messages as I passed the Batch Size](https://stackoverflow.com/questions/68488730/azure-service-bus-client-broker-is-not-fetching-the-same-size-of-messages-as-i/68490572#68490572)
+- [How to inject two instances of same generic interface of different types in same class in spring boot application using annotations](https://stackoverflow.com/questions/67684492/how-to-inject-two-instances-of-same-generic-interface-of-different-types-in-same)
 <!-- BLOG-POST-LIST:END -->
 
 
